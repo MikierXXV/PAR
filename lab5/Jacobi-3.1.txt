@@ -1,0 +1,28 @@
+Con la estrategia:
+
+Iterations        : 25000
+Resolution        : 254
+Residual          : 0.000050
+Solver            : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 3.057 
+Flops and Flops per second: (11.182 GFlop => 3657.90 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
+
+
+
+Con el orginal:
+
+
+Iterations        : 25000
+Resolution        : 254
+Residual          : 0.000050
+Solver            : 0 (Jacobi)
+Num. Heat sources : 2
+   1: (0.00, 0.00) 1.00 2.50 
+   2: (0.50, 1.00) 1.00 2.50 
+Time: 4.531 
+Flops and Flops per second: (11.182 GFlop => 2468.03 MFlop/s)
+Convergence to residual=0.000050: 15756 iterations
